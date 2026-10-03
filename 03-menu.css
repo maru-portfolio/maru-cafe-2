@@ -1,0 +1,87 @@
+body {text-align: center;
+      background: #F7F1E8;
+      font-family: "Yu Gothic", "Hiragino Sans", "Meiryo", sans-serif;
+      font-size: 14px;
+      font-weight: bold;}
+.header {background: #8B5A3C;
+         color: white;
+         text-align: center;
+         border-radius: 8px;
+         max-width: 800px;
+          margin: 10px auto;}
+.coffee {padding: 10px 0px 20px;
+       max-width: 700px;
+       margin: 30px auto;
+       background: #FFFFFF;
+       border-radius: 8px;
+       box-shadow: 0 2px 6px #8B5A3C;
+       box-sizing: border-box;}
+.coffee h2 {color: gray;
+          font-size: 20px;}
+.coffee p {color: gray;
+          font-weight: 500;
+          text-align: left;
+          padding-left: 100px;
+          margin: 5px 0;}
+.coffee ol li{color: gray;
+              list-style: none;
+              text-align: left;
+              padding-left: 60px;
+              margin: 8px 0;}
+.tea {padding: 10px 20px 20px;
+       max-width: 700px;
+       margin: 30px auto;
+       background: #FFFFFF;
+       border-radius: 8px;
+       box-shadow: 0 2px 6px #8B5A3C;
+       box-sizing: border-box;}
+.tea h2 {color: gray;
+          font-size: 20px;}
+.tea p {color: gray;
+          font-weight: 500;
+          text-align: left;
+          padding-left: 100px;
+          margin: 5px 0;}
+.tea ol li{color: gray;
+              list-style: none;
+              text-align: left;
+              padding-left: 80px;
+              margin: 8px 0;}
+.fruit {padding: 10px 20px 20px;
+       max-width: 700px;
+       margin: 30px auto;
+       background: #FFFFFF;
+       border-radius: 8px;
+       box-shadow: 0 2px 6px #8B5A3C;
+       box-sizing: border-box;}
+.fruit h2 {color: gray;
+          font-size: 20px;}
+.fruit p {color: gray;
+          font-weight: 500;
+          text-align: left;
+          padding-left: 100px;
+          margin: 5px 0;}
+.fruit ol li{color: gray;
+              list-style: none;
+              text-align: left;
+              padding-left: 80px;
+              margin: 8px 0;}
+.menu-content {display: flex;
+               justify-content: center;
+               align-items: center;
+               gap: 80px;}
+.menu-content img {width: 180px;
+                   height: 180px;
+                   object-fit: cover;
+                   border-radius: 8px;}
+.nav {display: flex;
+      gap: 40px;
+      justify-content: center;
+      background-color:beige;
+      padding: 0px 150px;
+      width: fit-content;
+      margin: 0 auto;}
+.nav a {color: gray;
+        text-decoration: none;
+        font-size: 14px;}
+.nav a:hover {text-decoration: underline double gray 2px;}

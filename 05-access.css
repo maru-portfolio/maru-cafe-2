@@ -1,0 +1,57 @@
+body {text-align: center;
+      background: #F7F1E8;
+      font-family: "Yu Gothic", "Hiragino Sans", "Meiryo", sans-serif;
+      font-size: 14px;
+      font-weight: bold;}
+.header {background: #8B5A3C;
+         color: white;
+         text-align: center;
+         border-radius: 8px;
+         max-width: 800px;
+          margin: 10px auto;}
+.address {padding: 10px 10% 20px;
+       max-width: 750px;
+       margin: 30px auto;
+       background: #FFFFFF;
+       border-radius: 8px;
+       box-shadow: 0 2px 6px #8B5A3C;
+       box-sizing: border-box;}
+.address h2 {color: gray;}
+.address p {color: gray;}
+.station {padding: 10px 10px 20px;
+       max-width: 750px;
+       margin: 30px auto;
+       background: #FFFFFF;
+       border-radius: 8px;
+       box-shadow: 0 2px 6px #8B5A3C;
+       box-sizing: border-box;}
+.station h2 {color: gray;}
+.station p {color: gray;
+            text-align: left;
+            padding-left: 200px;}
+.station p.parking {padding-left: 0;}
+.info {padding: 10px 20px 20px;
+       max-width: 700px;
+       margin: 30px auto;
+       background: #FFFFFF;
+       border-radius: 8px;
+       box-shadow: 0 2px 6px #8B5A3C;
+       box-sizing: border-box;}
+.info h2 {color: gray;}
+.info p {color: gray;}
+.access-img {width: 100%;
+             max-width: 800px;
+             height: 300px;
+             object-fit: cover;
+             border-radius: 8px;}
+.nav {display: flex;
+      gap: 40px;
+      justify-content: center;
+      background-color:beige;
+      padding: 0px 150px;
+      width: fit-content;
+      margin: 0 auto;}
+.nav a {color: gray;
+        text-decoration: none;
+        font-size: 14px;}
+.nav a:hover {text-decoration: underline double gray 2px;}

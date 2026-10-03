@@ -1,0 +1,78 @@
+body {text-align: center;
+       background: #F7F1E8;
+       font-family: "Yu Gothic", "Hiragino Sans", "Meiryo", sans-serif;
+       font-size: 14px;
+       font-weight: bold;}
+.header {background: #8B5A3C;
+              color: white;
+              text-align: center;
+              border-radius: 8px;
+              max-width: 800px;
+              margin: 10px auto;}
+a {text-decoration: none;
+       color: gray;}
+a:hover {text-decoration: underline double gray 2px;}
+.cafe {padding: 10px 10px 20px;
+              max-width: 800px;
+              margin: 30px auto;
+              background: #FFFFFF;
+              border-radius: 8px;
+              box-shadow: 0 2px 6px #8B5A3C;
+              box-sizing: border-box;}
+.cafe h2 {color: gray;
+              font-size: 20px;}
+.cafe p {color: gray;
+              font-weight: 500;
+              text-align: left;
+              padding-left: 100px;
+              margin: 5px 0;}
+.flavor {padding: 10px 10px 20px;
+              max-width: 800px;
+              margin: 30px auto;
+              background: #FFFFFF;
+              border-radius: 8px;
+              box-shadow: 0 2px 6px #8B5A3C;
+              box-sizing: border-box;}
+.flavor h2 {color: gray;
+              font-size: 20px;}
+.flavor p {color: gray;
+              font-weight: 500;
+              text-align: left;
+              padding-left: 60px;
+              margin: 5px 0;}
+.seat {padding: 10px 10px 20px;
+              max-width: 800px;
+              margin: 30px auto;
+              background: #FFFFFF;
+              border-radius: 8px;
+              box-shadow: 0 2px 6px #8B5A3C;
+              box-sizing: border-box;}
+.seat h2 {color: gray;
+              font-size: 20px;}
+.seat p {color: gray;
+              font-weight: 500;
+              text-align: left;
+              padding-left: 20px;
+              margin: 5px 0;}
+.seat p.seat-title {font-weight: 700;}
+.seat-images {display: flex;
+                     justify-content: center;
+                     gap: 20px;}
+       
+.seat-image {width: 30%;
+              height: 200px;
+              object-fit: cover;
+              border-radius: 4px;
+              display: block;
+              margin: 0 auto;}
+       .nav {display: flex;
+       gap: 40px;
+       justify-content: center;
+       background-color:beige;
+       padding: 0px 150px;
+       width: fit-content;
+       margin: 0 auto;}
+       .nav a {color: gray;
+              text-decoration: none;
+              font-size: 14px;}
+       .nav a:hover {text-decoration: underline double gray 2px;}
